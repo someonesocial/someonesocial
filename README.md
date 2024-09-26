@@ -28,4 +28,5 @@ I'm an online media student from Germany, passionate about technology and creati
 
 ### Get in Touch 📫
 
-Feel free to contact me on GitHub!
+Feel free to contact me!
+- ✉️ Email: [info@paulklemm.de](mailto:info@paulklemm.de)
