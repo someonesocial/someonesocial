@@ -7,7 +7,7 @@ I'm an online media student from Germany, passionate about technology and creati
 ### About Me 👨‍💻
 
 - 🎓 Online media student from Germany
-- 📱 Android app developer
+- 📱 Software developer
 - 🎨 Web designer with a focus on minimal design
 - 🚀 Passionate about pushing the boundaries of what's possible in the digital realm
 
@@ -16,6 +16,7 @@ I'm an online media student from Germany, passionate about technology and creati
 - 🤖 AI Technology
 - 🎨 Minimal Design
 - ⚙️ Technical Finesse
+- ❤️ Open Source Software
 - 🕸️ Web Development
 - 🔗 Decentralized Web
 - 🔬 Cutting-Edge Technologies
@@ -24,8 +25,8 @@ I'm an online media student from Germany, passionate about technology and creati
 
 - 🌐 My personal website: [paulklemm.de](https://paulklemm.de) - a physics simulation coded from scratch in TypeScript!
 - 📱 Check out my Android development projects:
-[github.com/xnorroid] https://github.com/xnorroid
 [xnorroid.com](https://xnorroid.com)
+[github.com/xnorroid](https://github.com/xnorroid)
 - 📂 Feel free to explore my repositories for more exciting projects!
 
 ### Get in Touch 📫
