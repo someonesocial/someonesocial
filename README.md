@@ -23,7 +23,9 @@ I'm an online media student from Germany, passionate about technology and creati
 ### Projects 🛠️
 
 - 🌐 My personal website: [paulklemm.de](https://paulklemm.de) - a physics simulation coded from scratch in TypeScript!
-- 📱 Check out my Android development website: [xnorroid](https://xnorroid.com)
+- 📱 Check out my Android development projects:
+[github.com/xnorroid] https://github.com/xnorroid
+[xnorroid.com](https://xnorroid.com)
 - 📂 Feel free to explore my repositories for more exciting projects!
 
 ### Get in Touch 📫
